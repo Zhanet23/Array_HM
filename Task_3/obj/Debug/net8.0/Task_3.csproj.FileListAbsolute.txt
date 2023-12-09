@@ -1,0 +1,15 @@
+D:\My\GB\Array_HM\Task_3\obj\Debug\net8.0\Task_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\My\GB\Array_HM\Task_3\obj\Debug\net8.0\Task_3.AssemblyInfoInputs.cache
+D:\My\GB\Array_HM\Task_3\obj\Debug\net8.0\Task_3.AssemblyInfo.cs
+D:\My\GB\Array_HM\Task_3\obj\Debug\net8.0\Task_3.csproj.CoreCompileInputs.cache
+D:\My\GB\Array_HM\Task_3\obj\Debug\net8.0\Task_3.sourcelink.json
+D:\My\GB\Array_HM\Task_3\bin\Debug\net8.0\Task_3.exe
+D:\My\GB\Array_HM\Task_3\bin\Debug\net8.0\Task_3.deps.json
+D:\My\GB\Array_HM\Task_3\bin\Debug\net8.0\Task_3.runtimeconfig.json
+D:\My\GB\Array_HM\Task_3\bin\Debug\net8.0\Task_3.dll
+D:\My\GB\Array_HM\Task_3\bin\Debug\net8.0\Task_3.pdb
+D:\My\GB\Array_HM\Task_3\obj\Debug\net8.0\Task_3.dll
+D:\My\GB\Array_HM\Task_3\obj\Debug\net8.0\refint\Task_3.dll
+D:\My\GB\Array_HM\Task_3\obj\Debug\net8.0\Task_3.pdb
+D:\My\GB\Array_HM\Task_3\obj\Debug\net8.0\Task_3.genruntimeconfig.cache
+D:\My\GB\Array_HM\Task_3\obj\Debug\net8.0\ref\Task_3.dll
