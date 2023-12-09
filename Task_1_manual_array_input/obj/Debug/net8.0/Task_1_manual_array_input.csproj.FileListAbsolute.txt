@@ -1,0 +1,15 @@
+D:\My\GB\Array_HM\Task_1_manual_array_input\bin\Debug\net8.0\Task_1_manual_array_input.exe
+D:\My\GB\Array_HM\Task_1_manual_array_input\bin\Debug\net8.0\Task_1_manual_array_input.deps.json
+D:\My\GB\Array_HM\Task_1_manual_array_input\bin\Debug\net8.0\Task_1_manual_array_input.runtimeconfig.json
+D:\My\GB\Array_HM\Task_1_manual_array_input\bin\Debug\net8.0\Task_1_manual_array_input.dll
+D:\My\GB\Array_HM\Task_1_manual_array_input\bin\Debug\net8.0\Task_1_manual_array_input.pdb
+D:\My\GB\Array_HM\Task_1_manual_array_input\obj\Debug\net8.0\Task_1_manual_array_input.GeneratedMSBuildEditorConfig.editorconfig
+D:\My\GB\Array_HM\Task_1_manual_array_input\obj\Debug\net8.0\Task_1_manual_array_input.AssemblyInfoInputs.cache
+D:\My\GB\Array_HM\Task_1_manual_array_input\obj\Debug\net8.0\Task_1_manual_array_input.AssemblyInfo.cs
+D:\My\GB\Array_HM\Task_1_manual_array_input\obj\Debug\net8.0\Task_1_manual_array_input.csproj.CoreCompileInputs.cache
+D:\My\GB\Array_HM\Task_1_manual_array_input\obj\Debug\net8.0\Task_1_manual_array_input.sourcelink.json
+D:\My\GB\Array_HM\Task_1_manual_array_input\obj\Debug\net8.0\Task_1_manual_array_input.dll
+D:\My\GB\Array_HM\Task_1_manual_array_input\obj\Debug\net8.0\refint\Task_1_manual_array_input.dll
+D:\My\GB\Array_HM\Task_1_manual_array_input\obj\Debug\net8.0\Task_1_manual_array_input.pdb
+D:\My\GB\Array_HM\Task_1_manual_array_input\obj\Debug\net8.0\Task_1_manual_array_input.genruntimeconfig.cache
+D:\My\GB\Array_HM\Task_1_manual_array_input\obj\Debug\net8.0\ref\Task_1_manual_array_input.dll
